@@ -16,6 +16,7 @@
  - Network: dio
  - Database: sqflite
  - Lint: linter
+ - CI/CD: ...
  - Other: rxdart
 
 ## Структура проекта
