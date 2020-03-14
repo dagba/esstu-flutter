@@ -1,16 +1,41 @@
-# esstuflutter
+# Личный кабинет ВСГУТУ
 
-Esstu lk flutter app
+### О проекте
 
-## Getting Started
+Мобильное приложение ЛК ВСГУТУ разработанное на фреймворке Flutter.
 
-This project is a starting point for a Flutter application.
+## Содержание
 
-A few resources to get you started if this is your first Flutter project:
+ - [Архитектура и инструменты используемые в проекте](#архитектура)
+ - [Структура проекта](#структура)
+ - [Задачи](#Задачи)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Архитектура и инструменты
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - Architecture: Bloc
+ - Network: dio
+ - Database: sqflite
+ - Lint: linter
+ - CI/CD: ...
+ - Other: rxdart
+
+## Структура проекта
+
+> TODO:
+
+## Задачи
+
+-   [ ] Authentication
+-   [ ] Schedule
+-   [ ] Map
+-   [ ] Announcements
+-   [ ] Attachments
+-   [ ] Conversations
+-   [ ] Dialog
+-   [ ] Chat
+-   [ ] Message filter/search
+-   [ ] UserList
+-   [ ] Creation chat
+-   [ ] More(Settings, Profile etc.)
+-   [ ] Journal
+-   [ ] Notifications

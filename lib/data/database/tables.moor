@@ -1,0 +1,12 @@
+---- this is the tables.moor file
+--CREATE TABLE users (
+--    id INT NOT NULL PRIMARY KEY AUTOINCREMENT,
+--    typeText TEXT,
+--    idNumber INT,
+--    firstName TEXT,
+--    middleName TEXT,
+--    lastName TEXT,
+--    description TEXT,
+--    gender TEXT,
+--    photoUrl TEXT
+--);
